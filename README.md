@@ -1,52 +1,58 @@
-# ⚡ System.VatshVan.Core ( )
-
-### [Quantitative Researcher // Systems Architect // IIT Bombay]
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D1FF&width=600&lines=High-Performance+Numerical+Computing;Engineering+Alpha+Factors;Optimizing+Mamba+SSMs;Architecting+JFNK+Solvers" alt="Typing SVG" />
-</p>
-
----
-
-### 📂 Operational Nodes (Top Pinned Repositories)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VatshVan&repo=SSMphony&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VatshVan&repo=Derivative-Pricing-Framework&theme=tokyonight" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VatshVan&repo=SeDriCa-Controls&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VatshVan&repo=Alpha-Factor-Library&theme=tokyonight" width="48%" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=250&section=header&text=Vatsh%20Van&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <br>
+  <a href="https://github.com/VatshVan">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Architectures;Deploying+High-Performance+Compute;Optimizing+Machine+Learning+Pipelines" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
-### 📊 Development Telemetry
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VatshVan&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VatshVan&theme=tokyonight" width="48%" />
-</p>
+### ⚙️ Core Infrastructure
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,linux,docker,git,bash,vim,ros,java,javascript,html,css,vscode&perline=10" />  
+  </a>
+  <br>
+  <a>
+  <img src="https://img.shields.io/badge/currently-online-brightgreen" />
+  <img src="https://img.shields.io/badge/coding-C++%20%7C%20Python-blue" />
+  <img src="https://img.shields.io/badge/listening-nothing-yellow" />
+  </a>
+</div>
 
 ---
 
-### 🧬 Technical Stack Execution
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,matlab,cuda,linux,docker,git,ros" />
-</p>
+### 📊 Global Telemetry
+
+<div align="center">
+  <img src="https://your-app.vercel.app/api?username=VatshVan&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VatshVan&hide_border=true&background=0D1117&ring=00D1FF&fire=00D1FF&currStreakNum=c9d1d9&currStreakLabel=00D1FF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="48%" />
+</div>
 
 ---
 
-### 📡 Connectivity & Deployment
-* **Location:** Mumbai, India
-* **Institution:** Indian Institute of Technology Bombay
-* **Focus:** Mechanical Engineering | AI & Data Science
+### 📈 Contribution Matrix
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VatshVan/VatshVan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VatshVan/VatshVan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VatshVan/VatshVan/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
-### 🚀 Runtime Environment
-```bash
-$ vatsh-van --fetch-top-repositories --analyze-complexity
-> Scanning Pinned Repositories... [SUCCESS]
-> Quantifying Technical Impact... [OPTIMAL]
-```
+### 📡 Network Node
 
-> **"Analytical rigor is the only hedge against systemic entropy."**
+<div align="center">
+  <code>Location: Mumbai, IN</code> •
+  <code>Instance: IIT Bombay Subsystem</code> •
+  <code>Bandwidth: MechE x AI/DS</code>
+</div>
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VatshVan&color=00D1FF&style=for-the-badge&label=PORT+CONNECTIONS" alt="Profile Views" />
+</div>
