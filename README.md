@@ -26,12 +26,10 @@
 
 ### 📊 Global Telemetry
 
-<div align="center">
-  <img src="https://your-app.vercel.app/api?username=VatshVan&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VatshVan&hide_border=true&background=0D1117&ring=00D1FF&fire=00D1FF&currStreakNum=c9d1d9&currStreakLabel=00D1FF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="48%" />
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VatshVan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=c9d1d9&icon_color=00D1FF&count_private=true&cache_seconds=1800" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VatshVan&hide_border=true&background=0D1117&ring=00D1FF&fire=00D1FF&currStreakNum=c9d1d9&currStreakLabel=00D1FF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" height="195" />
+</p>
 
 ### 📈 Contribution Matrix
 
