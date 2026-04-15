@@ -52,5 +52,5 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VatshVan&color=00D1FF&style=for-the-badge&label=PORT+CONNECTIONS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VatshVan&color=00D1FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
