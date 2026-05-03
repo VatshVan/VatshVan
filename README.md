@@ -4,8 +4,12 @@
   <a href="https://github.com/VatshVan">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Architectures;Deploying+High-Performance+Compute;Optimizing+Machine+Learning+Pipelines" alt="Typing SVG" />
   </a>
+  <br><br>
+  <!-- Portfolio Button -->
+  <a href="https://vatshvan.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-vatshvan.github.io-00D1FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+  </a>
 </div>
-
 ---
 
 ### Core Infrastructure
